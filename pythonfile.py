@@ -1,7 +1,7 @@
 def fun():
     a = 23
-    b = 45
-    return a+b
+    password = "Prakash@12347"
+    return a+password
 
 
 fun()
